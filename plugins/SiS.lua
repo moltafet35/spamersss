@@ -10,7 +10,7 @@ return {
   patterns = {
     "^/spam",
     "^/sps$",
-    "^/sis$",
+    "^/SiS$",
 
   },
   run = run
