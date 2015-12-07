@@ -10,7 +10,7 @@ return {
   patterns = {
     "^/SiS",
     "^/SIS$",
-    "^/nsis$",
+    "^/nSiS$",
 
   },
   run = run
