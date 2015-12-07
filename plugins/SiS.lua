@@ -9,7 +9,7 @@ return {
   usage = "/credits",
   patterns = {
     "^/spam",
-    "^/sps$",
+    "^/sis$",
     "^/SiS$",
 
   },
